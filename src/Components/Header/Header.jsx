@@ -7,7 +7,7 @@ const Header = () =>{
             <li>About Us</li>
             <li>Contact Us</li>
             </ul></section>
-        <section> <button className="border border-solid border-white p-2" onClick={changeTheme}> Theme</button></section>
+        <section> <button className="border border-solid border-white p-2"> Theme</button></section>
        </div>
     )
 }
